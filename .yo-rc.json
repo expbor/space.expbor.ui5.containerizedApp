@@ -1,0 +1,17 @@
+{
+  "generator-ui5-app": {
+    "namespace": "space.expbor.ui5.containerizedapp",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.128.0",
+    "author": "Dennis Fritsche",
+    "initrepo": false,
+    "appId": "space.expbor.ui5.containerizedapp",
+    "appURI": "space/expbor/ui5/containerizedapp",
+    "cdnDomain": "sdk.openui5.org",
+    "defaultTheme": "sap_horizon",
+    "qunitCoverageFile": "qunit-coverage-istanbul.js",
+    "gte1_98_0": true,
+    "gte1_104_0": true,
+    "setupCompleted": true
+  }
+}
