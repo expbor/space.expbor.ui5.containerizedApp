@@ -1,7 +1,5 @@
 # UI5 Application space.expbor.ui5.containerizedapp
 
-Insert the purpose of this project and some interesting info here...
-
 ## Description
 
 This app demonstrates a setup for developing UI5 applications inside of a docker container.
