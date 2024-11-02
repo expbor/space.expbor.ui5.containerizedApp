@@ -1,4 +1,4 @@
-# UI5 Application space.expbor.ui5.containerizedapp
+# SAPUI5 in a Docker Container
 
 ## Description
 
