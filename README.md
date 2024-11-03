@@ -4,6 +4,7 @@
 
 This app demonstrates a setup for developing UI5 applications inside of a docker container.
 
+![grafik](https://github.com/user-attachments/assets/169422a4-f832-40e2-a126-ece57d7f4403)
 
 ## Run the App
 
